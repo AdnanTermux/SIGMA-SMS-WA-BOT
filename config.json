@@ -1,0 +1,22 @@
+{
+  "telegram": {
+    "token": "YOUR_BOT_TOKEN",
+    "superadmin_ids": [123456789]
+  },
+  "whatsapp": {
+    "command_prefix": ".",
+    "session_base_dir": "sessions"
+  },
+  "api": {
+    "base_url": "https://tempnum.net",
+    "poll_interval_ms": 30000
+  },
+  "bot": {
+    "name": "Sigma OTP Manager",
+    "developer": "@NONEXPERTCODER",
+    "number_bot_link": "https://t.me/YourNumberBot",
+    "support_link": "https://t.me/YourSupport"
+  },
+  "public_stats_api": "https://tempnum.net/api/public/stats",
+  "OTP_GUI_THEME": 0
+}
